@@ -1199,7 +1199,7 @@ input, select, textarea {
 		top: 0;
 		left: 0;
 		width: 100%;
-		background-color: #3bbd90;
+		background-color: #903bbd;
 		color: #ffffff;
 		height: 3.25em;
 		line-height: 3.25em;
@@ -1269,7 +1269,7 @@ input, select, textarea {
 
 					#header nav ul li.active a {
 						background-color: #ffffff;
-						color: #3bbd90;
+						color: #903bbd;
 					}
 
 		@media screen and (max-width: 980px) {
@@ -1514,8 +1514,8 @@ input, select, textarea {
 						#main .slide > .inner > .content input[type="url"]:focus,
 						#main .slide > .inner > .content select:focus,
 						#main .slide > .inner > .content textarea:focus {
-							border-color: #3bbd90;
-							box-shadow: 0 0 0 1px #3bbd90;
+							border-color: #903bbd;
+							box-shadow: 0 0 0 1px #903bbd;
 						}
 
 					#main .slide > .inner > .content select {
@@ -1539,15 +1539,15 @@ input, select, textarea {
 
 					#main .slide > .inner > .content input[type="checkbox"]:checked + label:before,
 					#main .slide > .inner > .content input[type="radio"]:checked + label:before {
-						background-color: #3bbd90;
-						border-color: #3bbd90;
+						background-color: #903bbd;
+						border-color: #903bbd;
 						color: #ffffff;
 					}
 
 					#main .slide > .inner > .content input[type="checkbox"]:focus + label:before,
 					#main .slide > .inner > .content input[type="radio"]:focus + label:before {
-						border-color: #3bbd90;
-						box-shadow: 0 0 0 1px #3bbd90;
+						border-color: #903bbd;
+						box-shadow: 0 0 0 1px #903bbd;
 					}
 
 					#main .slide > .inner > .content ::-webkit-input-placeholder {
